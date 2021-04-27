@@ -1,1 +1,1 @@
-# angles
+# Box Class
